@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xhpan0
+- 👋 Hi, I’m @oekd
  
 - 🌱 I’m currently learning C++
  
-- 📫 You can reach me by adding my discord xhpan
+- 📫 You can reach me by my telegram https://t.me/eraseted
 
 <!---
 xhpan0/xhpan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
